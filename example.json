@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "sensorID": "123456789",
+      "X-Pin": "11",
+      "sensordatavalues": [
+        {
+          "value_type": "temperature",
+          "value": "23.4"
+        },
+        {
+          "value_type": "humidity",
+          "value": "45.6"
+        },
+        {
+          "value_type": "pressure",
+          "value": "1013.25"
+        }
+      ]
+    },
+    {
+      "sensorID": "987654321",
+      "X-Pin": "1",
+      "sensordatavalues": [
+        {
+          "value_type": "P1",
+          "value": "23.4"
+        },
+        {
+          "value_type": "P2",
+          "value": "45.6"
+        }
+      ]
+    }
+  ]
+}
